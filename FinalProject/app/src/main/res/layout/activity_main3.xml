@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:layout_weight="1"
+    tools:context="com.example.beck.finalproject.Main3Activity">
+
+    <ImageView
+        android:src="@drawable/suku"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_weight="0.01"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="10dp"
+        android:background="#ffff">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:text="Penampakan Suku Mante di belantara Aceh menghebohkan publik setelah tertangkap kamera seorang crosser yang melintas. Sebelumnya keberadaan Suku Mante yang bertubuh mungil ini hanya diceritakan dari mulut ke mulut lewat beragam kesaksian. Selain Suku Mante, ada pula suku-suku lain yang memiliki tubuh mini. Sebagian besar dari mereka hidup seperti Suku Mante, bersembunyi bila terlihat orang asing. Tetapi ada pula suku yang relatif lebih ramah dengan masyarakat umum. Mereka bisa hidup berdampingan meski berbeda kebudayaan. Di Afrika, suku dengan anggota bertubuh mungil disebut sebagai Pygmy. Mereka hidup tersebar di hutan-hutan yang ada di benua tersebut. Siapa saja suku-suku mungil itu?"
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="1. Suku Batwa, Uganda"
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:text="Terminologi 'Pygmy' merujuk pada orang-orang bertubuh kecil yang masih berburu dan mengumpulkan makanan di hutan equator (khatulistiwa) Afrika tengah. Salah satu yang termasuk suku Pygmy tersebut adalah Batwa dari Uganda.
+Dalam studi yang dilakukan oleh Minority Rights Group International pada tahun 2000 menyebutkan bahwa Suku Batwa sebetulnya tak suka disebut 'Pygmy'. Sejumlah riset menyebutkan bahwa Suku Batwa di Uganda lebih senang disebut sebagai Abayanda.
+Pada tahun 2000an, jumlah anggota Suku Batwa berkisar antara 70.000 sampai dengan 87.000 orang pada area 100.000 kilometer persegi. Tinggi badan mereka tak lebih dari 150 cm."
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="2. Ebu Gogo, Flores"
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:text="Di Flores telah dikenal ada Homo Floresiensis yang bertubuh pendek. Rupanya keberadaan makhluk menyerupai manusia yang mirip dengan Homo Floresiensis masih ada lewat kesaksian orang-orang.
+Adalah Ebu Gogo, makhluk bertubuh pendek yang dipercaya masih ada di Flores, NTT itu. Ebu Gogo tinggal di dalam gua yang bernama Liang Bua.
+Dalam buku 'Little People and a Lost World' yang ditulis oleh Linda Goldenberg, dikatakan bahwa Ebu Gogo kerap mencuri perabotan hingga ternak warga. Mereka akan membalas kata-kata yang sama dengan yang dikatakan warga.
+Ebu Gogo akan mengambil makanan yang diberikan oleh warga desa, namun mereka tak mau bergabung. Disebutkan pula bahwa Ebu Gogo merasa terancam bila melihat api.
+Ebu Gogo memiliki tubuh pendek dan ditutupi bulu. Berbagai video diunggah dalam situs YouTube yang mengklaim kesaksian terhadap makhluk ini. Ada yang tertangkap kamera berwujud seperti manusia purba dengan rambut panjang dan bulu menutupi badan.
+Ada pula cerita rakyat yang menyebut Ebu Gogo sebagai makhluk mistis. Para orangtua biasa mengatakan ke anaknya jika tak tidur di malam hari maka akan ditangkap Ebu Gogo."
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="3. Suku Oni, Bone"
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:text="Di Bone, Sulawesi Selatan terdapat manusia bertubuh mungil yang masuk ke dalam satu suku. Mereka adalah Suku Oni yang bertubuh sekitar 70 centimeter.
+Dikutip dari situs resmi Dinas Perpustakaan dan Kearsipan Kabupaten Bone, Suku Oni mendiami gua. Salah satu gua yang dipercaya menjadi tempat tinggal mereka adalah Gua Uhallie (Wallie). Sebagian warga menganggap mereka siluman karena mampu menghilang tiba-tiba di dalam kerimbunan hutan.
+Dahulu kala Suku Oni hidup berdampingan dengan warga desa. Mereka kerap meminjamkan perabotan ketika warga desa mengadakan hajatan.
+Namun warga desa sering tak mengembalikan perabotan mereka. Sehingga Suku Oni pun marah dan tak mau didekati warga atau pun orang asing lainnya.
+Meski tinggal di dalam gua, Suku Oni bisa dipancing menggunakan pisang. Tetapi seringkali upaya 'memancing' Suku Oni keluar gua tak membuahkan hasil.
+Bukti keberadaan Suku Oni terlihat dari cap tangan berukuran mungil berwarna merah dalam gua Uhallie. Cap tangan itu dijumpai di langit-langit gua."
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="4. Uhang Pandak"
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:text="Uhang Pandak atau Uhang Pandiak atau Orang Pendek merupakan makhluk menyerupai manusia yang mendiami hutan-hutan Sumatera. Keberadaan Orang Pendek diketahui lewat beragam kesaksian.
+Ada yang menggolongkan Orang Pendek sebagai hewan. Namun tak sedikit yang menyebutnya manusia dengan kebudayaan terbelakang atau pun 'setengah-manusia'.
+Orang Pendek dipercaya memiliki kekuatan yang mampu mematahkan rotan. Mereka hidup dengan berburu."
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="5. Suku Aeta, Filipina"
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:text="Suku Aeta di Filipina memiliki tubuh pendek berkisar antara 135 - 150 centimeter. Suku ini cukup bersahabat dengan masyarakat umum.
+Aeta berasal dari kata 'Ayta', 'Ita', 'Ati' yang berarti 'hitam'. Kulit mereka memang gelap.
+Jumlah populasi Suku Aeta kemungkinan ada 30.000 orang. Mereka terdiri dari berbagai suku-suku kecil.
+Suku Aeta dipercaya hidup sekitar 30.000 tahun lalu. Mereka hidup dengan berburu dan mengumpulkan makanan."
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="6. Suku Pygmy di Rampasasa, Flores"
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:text="Tak hanya di Afrika, Suku Pygmy juga terdapat di Dusun Rampasasa, Flores, NTT. Mereka dipercaya masih keturunan dari Homo Floresiensis.
+Kehidupan mereka bisa dibilang modern karena berpakaian seperti warga pada umumnya. Sebagian besar penduduknya berprofesi sebagai petani.
+Penduduk di Rampasasa sangat ramah terhadap pendatang. Mereka tak sungkan-sungkan menyuguhkan makanan atau pun kopi bagi pendatang."
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="7. Suku Koropokkuru, Jepang"
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:text="Keberadaan suku dengan makhluk berukuran kecil tak hanya ada di Indonesia saja. Di Jepang, ada suku yang bernama Koro Pokunguru atau juga disebut Tsuchigumo. Makhluk di suku ini hidup di awah daun burdock dan berukuran kecil.
+Ada yang menyebutkan tinggi makhluk di suku tersebut hanya 4 kaki. Ada pula yang mengatakan tingginya 2 hingga 3 kaki. Suku ini pemalu dan jarang menampilkan diri di depan manusia. Mereka banyak melakukan kegiatan pada malam hari dan menjaga jarak dengan suku Ainu.
+Keberadaan Suku Koropokkuru pernah diteliti oleh arkeolog Edward S Morse pada 1877. Studi pun berkembang tentang Koropokkuru dan menghasilkan satu kemungkinan yakni suku tersebut adalah tipe dari kelompok manusia kerdil atau pygmy.
+Kelompok tersebut dapat ditemukan di Afrika, Pulau Andaman, Malay Peninsula dan Filipina. "
+            android:textSize="12sp"/>
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>

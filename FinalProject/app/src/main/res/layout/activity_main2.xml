@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:background="@drawable/background"
+    android:weightSum="1">
+
+    <ImageView
+        android:src="@drawable/budaya"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_weight="0.02"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="10dp"
+        android:background="#ffff"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:layout_marginBottom="8dp"
+            android:textSize="12dp"
+            android:text="Budaya Indonesia adalah seluruh kebudayaan nasional, kebudayaan lokal, maupun kebudayaan asal asing yang telah ada di Indonesia sebelum Indonesia merdeka pada tahun 1945.Istilah kebudayaan merupakan tejemahan dari istilah culture dari bahasa Inggris. Kata culture berasa dari bahasa latin colore yang berarti mengolah, mengerjakan, menunjuk pada pengolahan tanah, perawatan dan pengembangan tanaman dan ternak. Upaya untuk mengola dan mengembangkan tanaman dan tanah inilah yang selanjutnya dipahami sebagai culture. Sementara itu, kata kebudayaan berasal dari bahasa sansekerta, buddhayah yang merupakan bentuk jamak dari kata buddhi. Kata buddhi berarti budi dan akal. Kamu besar Bahasa Indonesia mengartikan kebudayaan sebagai hasil kegiatan dan penciptaan batin (akal budaya) manusia seperti kepercayaan, kesenian, dan adat – istiadat. E.B. Taylor mendefinisikan kebudayaan sebagai hal yang mencakup pengetahuan, kepercayaan, kesenian, moral, hukum, adapt-istiadat, kebiasaan serta kemampuan-kemampuan lain yang diperoleh manusia sebagai anggota masyarakat. Menurut Koentjaningrat (1985) kebudayaan adalah keseluruhan ide-ide, tindakan, dan hasil karya manusia dalam rangka kehidupan masyarakat yang dijadikan milik diri manusia dengan belajar. Definisi lebih singkat terdapat pada pendapat Selo Soemardjan dan Soelaeman Soemardi (1964), menurut mereka kebudayaan adalah semua hasil karya, rasa, dan cipta masyarakat.Bila disimak lebih seksama, definisi Selo Soemardjan dan Soelaeman Soemardi lebih menekankan pada aspek hasil material an kebudayaan. Sementara Koentjaraningrat menekankan dua aspek kebudayaan yaitu abstrak (non material) dan konkret (material. Pada definisi Koentjaraningrat, tampak bahwa kebudayaan merupakan suatu proses hubungan manusia dengan alam dalam rangka memenuhi kebutuhan hidupnya baik jasmaniah maupun rohaniah. Dalam proses tersebut manusia berusaha mengatasi permasalahan dan tantangan yang ada dihadapannya. Terlepas dari perbedaan yang ada di antara pendapat di atas. Tampak bahwa belajar merupakan unsur penting dari pengertian kebudayaan. Seperti terlihat pula pada definisi kebudayaan menurut Kroeber (1948). Menurutnya, kebudayaan adalah keseluruhan realisasi gerak, kebiasaan, tata cara, gagasan, dan nilai-nilai yang dipelajari dan diwariskan, serta perilaku yang ditimbulkannya."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:layout_marginBottom="8dp"
+            android:textSize="12dp"
+            android:text="Pada jaman modern seperti ini budaya asli negara kita memang sudah mulai memudar, faktor dari budaya luar memang sangat mempengaruhi pertumbuhan kehidupan di negara kita ini. Contohnya saja anak muda jaman sekarang, mereka sangat antusias dan up to date untuk mengetahui juga mengikuti perkembangan kehidupan budaya luar negeri. Sebenarnya bukan hanya orang-orang tua saja yang harus mengenalkan dan melestarikan kebudayaan asli negara kita tetapi juga para anak muda harus senang dan mencintai kebudayaan asli negara sendiri. Banyak faktor juga yang menjelaskan soal 7 unsur budaya universal yaitu :"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="1. Sistem Teknologi dan Peralatan"
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:text="Teknologi semakin lama semakin luas. Karena makin banyaknya masyarakatyang hidup modern. Teknologi sangat diperlukan akan tetapi tidak untukmelakukan perbuatan yang melanggar norma-norma yang berlaku. Sekarang banyak yang menyalah gunakan alat teknologi khususnya internet. Tidak sedikitmasyarakat yang tertipu atau melakukan perbuatan asusila dengan internet. Haltersebut harus kita perhatikan. Jangan sampai kebudayaan kita menjadi minus dimata negara lain. contoh lainnya dari sistem teknologi dan peralatan adalahperalatan kantor, rumah tangga, pertanian, nelayan, tukang kayu, peralatanibadah dan sebagainya lagi.Unsur kebudayaan secara universal sangat beragam. Kita bisa pelajari denganbaik maka akan dapat banyak sekali pengetahuan yang sangat bermanfaat."
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="2. Sistem Mata Pencaharian Hidup"
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:text="Mata pencaharian sangat diperlukan untuk setiap masyarakat karenabermanfaat untuk memenuhi kehidupan manusia. Misalnya kaumpegawai/karyawan, kaum, petani, nelayan, pedangan. buruh dan seterusnya. Haltersebut merupakan mata pencaharian yang harus kita tekuni. Contohnyamasyarakat yang hidup dipesisir pantai lebih banyak bermata pencahariansebagai nelayan atau masyarakat yang hidup di perkotaan lebih banyak bermatapencaharian sebagai pegawai kantoran."
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="3. Sistem dan Organisasi Kemasyarakatan"
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:text="Kebudayaan di Indonesia beragam sangat banyak. Terdapat masyarakat Jawa,Sunda, Batak, Bugis dsb. Dari macam-macam kebudayaan tersebut, perluditanamkan nilai-nilai kemanusiaan yaitu membiasakan bergaul dengankebudayaan yang lain. Dan saling berinteraksi dengan rukun. Di Indonesiabanyak terdapat kebudayaan yang harus di lestarikan bersama. Jangan kitasaling bersaing untuk kepentingan pribadi dengan kebudayaan lain, karena itusama saja kita memecahbelahkan kebudayaan yang sudah ditanam oleh leluhursebelumnya."
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="4. Bahasa"
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:text="Kebudayaan yang beragam sangat berpengaruh pada bahasa yang dipakainya.Contohnya bahasa Inggris, Jerman, Italia, Sunda, Jawa, dsb. Dari banyak bahasatersebut kita dapat mempelajarinya untuk pengetahuan yang lebih luas. Tidakhanya bahasa yang dipelajari berasal dari bahas luar negri saja, tetapi bahasadari negri Indonesiapun perlu kita pelajari untuk melestarikan kebudayaan yangada di Indonesia."
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="5. Kesenian"
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:text="Salah satu ciri khas dari kebudayaan adalah kesenian. Banyak hal yang bisa kitapelajari mengenai kesenian. Misalnya seni sastra, lukis, musik, tari, drama, kriadan lain sebagainya. Hal tersebut bagian dari khas yang dimiliki setiap daerahmaupun setiap negara. Misalnya untuk kesenian musik. Kita bisa mengetahuidan mencari musik yang khas dari setiap daerah maupun negara. Contohnyalagu-lagu daerah ampar-ampar pisang yang berasal dari Kalimantan Selatanyang menjadi ciri khas dari daerah tersebut."
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="6. Sistem Pengetahuan"
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:text="Ada banyak sistem pengetahuan misalnya pertanian, perbintangan,perdagangan/bisnis, hukum dan perundang-undangan, pemerintahaan/politikdsb. Hal tersebut juga bagian dari kebudayaan. Kita wajib mempelajarinyakarena dengan adanya sistem pengetahuan kita menjadi tahu dunia luar dansangat bermanfaat untuk kehidupan karena berpengaruh pada pekerjaanseseorang untuk memenuhi kebutuhan hidupnya. Tidak perlu semua kita pelajaricukup beberapa saja kita kuasai, maka akan banyak informasi yang kita dapat."
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="7. Sistem Upacara Keagamaan"
+            android:textSize="12sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="gravity"
+            android:textColor="#000"
+            android:text="Setiap kebudayaan terdapat kepercayaan yang dianut. Kepercayaan yang dianutdi Indonesia ada 5, yaitu Islam, Kristen protestan, Katolik, Hindu dan Budha. Darikelima agama tersebut terdapat upacara keagamaan yang berbeda-beda. Akantetapi untuk masyarakat yang tinggal dikota upacara keagamaan sepertinyasudah tidak dilaksanakan lagi kecuali dalam hal-hal tertentu saja. Sedangkanmasyarakat yang tinggal didesa masih banyak yang melaksanakan upacarakeagamaan tersebut."
+            android:textSize="12sp"/>
+    </LinearLayout>
+</LinearLayout>
+    </ScrollView>
